@@ -1,4 +1,4 @@
-# TEENA THANMAY Patient Management System
+git init# TEENA THANMAY Patient Management System
 
 Teena Thanmay Patient Management System
 
